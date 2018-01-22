@@ -1,4 +1,4 @@
-# LSAPP - Laravel From Scratch App
+# Laravel From Scratch App
 
 This is the source code for the PHPUnit Reference with basic CRUD testing.
 
